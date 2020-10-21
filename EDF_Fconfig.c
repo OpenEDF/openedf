@@ -42,31 +42,47 @@
 /* Private macro -------------------------------------------------------------*/
 
 /* Private variables ---------------------------------------------------------*/
+#ifdef SYSTEM_LED_WORK
+  led_dev led;
+#ednif
 
 /* Private function prototypes -----------------------------------------------*/
-static void InitLED_Operation(led_operation *opr);
+static void CreateLED_dev(void);
 
 /** @defgroup EDF_Fconfig_Functions
   * @{
   */
 
 /**
-  * @function   InitLED_Operation
-  * @brief      Configurate the LED for system.
+  * @function   CreateLED_dev
+  * @brief      create the LED for system.
   * @param[in]  led_operation: system LED operation struct.
   * @retval     None.
   */
-static void InitLED_Operation(led_operation *opr)
+static void CreateLED_dev(led_dev *led)
 {
-    /* function pointer initalization */
-    opr->hardware_init = hardware_init;
-    opr->led_set_status = led_set_status;
-    opr->led_set_brightness = led_set_brightness;
-    opr->led_set_color = led_set_color;
-    opr->led_set_blink = led_set_blink;
-    opr->led_get_status = led_get_status;
-    opr->led_get_brightness = led_get_brightness;
-    opr->led_get_color = led_get_color;
+  /* device name */
+  led->name = "wifi_status_led";
+
+  /* device configuration parameters */
+  led->config.brightness = LED_OFF;
+  led->config.color = RED;
+  led->config.type = RGB;
+  led->config.status = CLOSE;
+  led->config.delay = FASTEST;
+
+  /* function pointer initalization */
+  led->operations.hardware_init = hardware_init;
+  led->operations.led_set_status = led_set_status;
+  led->operations.led_set_brightness = led_set_brightness;
+  led->operations.led_set_color = led_set_color;
+  led->operations.led_set_blink = led_set_blink;
+  led->operations.led_get_status = led_get_status;
+  led->operations.led_get_brightness = led_get_brightness;
+  led->operations.led_get_color = led_get_color;
+
+  /* device private data */
+  led->dev_private = NULL;
 }
 
 /**
@@ -79,7 +95,7 @@ void System_Fun_Config(void)
 {
     /* config the system LED */
 #ifdef SYSTEM_LED_WORK
-    InitLED_Operation();
+    CreateLED_dev(&led);
 
 #endif
 

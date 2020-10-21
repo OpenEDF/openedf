@@ -38,15 +38,15 @@
 
 /* Exported types ------------------------------------------------------------*/
 
-/* Exported constants --------------------------------------------------------*/
-
-/* Exported macro ------------------------------------------------------------*/
+/* Exported define --------------------------------------------------------*/
 #define SYSTEM_LED_WORK
+/* Exported constant ------------------------------------------------------------*/
+#ifdef SYSTEM_LED_WORK
+   extern led_dev led;
+#ednif
 
-
-
-/* Exported functions --------------------------------------------------------*/
-void System_Fun_Config(void);
+   /* Exported functions --------------------------------------------------------*/
+   void System_Fun_Config(void);
 
 #ifdef __cplusplus
 }
