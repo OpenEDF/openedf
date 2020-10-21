@@ -94,13 +94,15 @@ typedef enum {
 } blink_delay;
 
 /*
- * STRUCT : @led_dev.
+ * STRUCT : @led_config.
  */
 typedef struct {
-    const char name[LED_NAME_MAX_SIZE];
-    led_type type;
-    uint8_t flags;
-}led_dev;
+    led_brightness  brightness;
+    led_color       color;
+    led_type        type;
+    led_status      status;
+    blink_delay     delay;
+}led_config;
 
 /*
  * STRUCT : @led_operation.
@@ -119,15 +121,29 @@ typedef struct {
     led_color (* led_get_color)(led_dev *dev);
 }led_operation;
 
+/*
+ * STRUCT : @led_dev.
+ */
+typedef struct {
+    const char        name[LED_NAME_MAX_SIZE]; /* Device identity */
+    led_config        config;    /* Devicde initial configuration */
+    led_operation     operation; /* Function pointer for device operation */
+    void              *priv;     /* Device private data */
+}led_dev;
+
 /* Exported functions --------------------------------------------------------*/
-void hardware_init(led_dev *dev);
-void led_set_status(led_dev *dev, led_status status);
-void led_set_brightness(led_dev *dev, led_brightness brightness);
-void led_set_color(led_dev *dev, led_color color);
-void led_set_blink(led_dev *dev, blink_delay delay_on, blink_delay delay_off);
-char *led_get_status(led_dev *dev);
-led_brightness led_get_brightness(led_dev *dev);
-led_color led_get_color(led_dev *dev);
+/*
+* Functions to be implemented by the underlying specific hardware platform.
+* These functions will be remove.
+*/
+//void hardware_init(led_dev *dev);
+//void led_set_status(led_dev *dev, led_status status);
+//void led_set_brightness(led_dev *dev, led_brightness brightness);
+//void led_set_color(led_dev *dev, led_color color);
+//void led_set_blink(led_dev *dev, blink_delay delay_on, blink_delay delay_off);
+//char *led_get_status(led_dev *dev);
+//led_brightness led_get_brightness(led_dev *dev);
+//led_color led_get_color(led_dev *dev);
 
 #ifdef __cplusplus
 }

@@ -3,3 +3,5 @@
 
  Embedded development framework.
 
+1. uopdate device structure elements.
+
