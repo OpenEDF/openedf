@@ -1,5 +1,5 @@
 # OpenEDF
-![OpenEDF](https://github.com/makermuyi/OpenEDF/blob/master/matrial/openedf_logo.png)
+![OpenEDF](https://github.com/OpenEDF/openedf/blob/master/matrial/logo/OpenEDF.png)
 
  Embedded development framework.
 
