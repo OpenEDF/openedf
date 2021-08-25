@@ -19,7 +19,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
-<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/arduino.png" alt="css3" padding="10px" width="60" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/adafruit.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/beaglebone.png" alt="css3" padding="10px" width="50" height="60"/>  
+<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/dfrobot.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/hardward.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/llvm.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/riscv.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/nasa/nasa-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/particleio/particleio-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 </p>
 <br>
 
