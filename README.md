@@ -18,7 +18,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/arduino.png" alt="css3" padding="10px" width="60" height="50"/>
 </p>
 <br>
 
