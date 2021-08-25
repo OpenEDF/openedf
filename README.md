@@ -2,13 +2,26 @@
 <img src="https://github.com/OpenEDF/openedf/blob/master/matrial/logo/OpenEDF.png" min-width="500px" max-width="500px" width="500px" align="right" alt="OpenEDF logo">
 
 ### 🌄 About OpenEDF
-- 🌱 Currently mastering  **Javascript, Node.js and MongoDB**.
+- **WAIT A MOMENTB**.
 
 ### 👦 About me
-- 🤔 I'm a front-end developer aiming to be fullstack.
+- Microprocessor design 
+- Embedded dev, Linux
+- open-source hardware/software enthusiast
+- independent photographer
+- violin beginner
+- deep learning beginner
 
 ### 🚀 My skills My like
 ![Github python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Github github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
+<p align="center" margin="100px">
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+</p>
+<br>
 
 ### 🏃‍♂️ Doing
 - [x] arm code dump
