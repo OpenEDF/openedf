@@ -45,8 +45,3 @@
 - [x] arm code dump
 - [ ] RISC-V on FPGA
 - [ ] thinking
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=OpenEDF&show_icons=true&theme=vue&bg_color=181818&text_color=fff"  /> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpenEDF&show_icons=true&theme=vue&bg_color=181818&text_color=fff&layout=compact" alt="OpenEDF" />
-</p>
