@@ -38,6 +38,10 @@
 <img src="https://www.vectorlogo.zone/logos/particleio/particleio-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/oreilly/oreilly-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 </p>
 <br>
 
