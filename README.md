@@ -21,14 +21,14 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/adafruit.png" alt="css3" padding="10px" width="60" height="60"/>
-<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/beaglebone.png" alt="css3" padding="10px" width="50" height="60"/>  
+<img src="https://beagleboard.org/static/images/logos/logo/beagleboard-embedded/beaglebaord-embedded.svg" alt="css3" padding="10px" width="60" height="60"/> 
 <img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/dfrobot.png" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
-<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/hardward.png" alt="css3" padding="10px" width="60" height="60"/>
-<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/llvm.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://llvm.org/img/DragonMedium.png" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
-<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/riscv.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/RISC-V-logo.svg" alt="css3" padding="10px" width="120" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
@@ -42,6 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/oreilly/oreilly-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="css3" padding="10px" width="60" height="60"/>
 </p>
 <br>
 
