@@ -20,7 +20,7 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
-<img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/adafruit.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://logodix.com/logo/1589425.gif" alt="css3" padding="10px" width="70" height="60"/>
 <img src="https://beagleboard.org/static/images/logos/logo/beagleboard-embedded/beaglebaord-embedded.svg" alt="css3" padding="10px" width="60" height="60"/> 
 <img src="https://github.com/OpenEDF/openedf/blob/master/matrial/like-logo/dfrobot.png" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
