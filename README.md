@@ -2,7 +2,9 @@
 <img src="https://github.com/OpenEDF/openedf/blob/master/matrial/logo/OpenEDF.png" min-width="500px" max-width="500px" width="500px" align="right" alt="OpenEDF logo">
 
 ### 🌄 About OpenEDF
-- **WAIT A MOMENTB**.
+- Establish a complete set of  standards to connect the physical hardware and the application layer.
+- No matter what peripheral it is, you can find the corresponding operation API here.
+- We refuse to do repetitive work, every embedded engineer no longer starts from zero.
 
 ### 👦 About me
 - Microprocessor design 
@@ -12,7 +14,7 @@
 - violin beginner
 - deep learning beginner
 
-### 🚀 My skills My like
+### 🚀 My tools My like
 <br>
 <p align="center" margin="100px">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
@@ -47,6 +49,6 @@
 <br>
 
 ### 🏃‍♂️ Doing
-- [x] arm code dump
-- [ ] RISC-V on FPGA
-- [ ] thinking
+- [ ] Implementation of heap management structure and algorithm
+- [ ] Run RISC-V soft-core on xilinx A7
+- [ ] Thinking
