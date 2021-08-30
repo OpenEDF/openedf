@@ -9,10 +9,10 @@
 ### 👦 About me
 - Microprocessor design 
 - Embedded dev, Linux
-- open-source hardware/software enthusiast
-- independent photographer
-- violin beginner
-- deep learning beginner
+- Open-source hardware/software enthusiast
+- Independent photographer
+- Violin beginner
+- Deep-learning beginner
 
 ### 🚀 My tools My like
 <br>
