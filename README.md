@@ -54,7 +54,8 @@
 - [ ] Implementation of heap management structure and algorithm
 - [ ] Run RISC-V soft-core on xilinx A7
 - [ ] Github hot map show board
-- [ ] Thinking
+- [ ] Automate work
+- [ ] Meditation
 
 ### 🌏 Contact me
 - Email：makermuyi@gmail.com
