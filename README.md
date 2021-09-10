@@ -56,6 +56,7 @@
 - [ ] Github hot map show board
 - [ ] Automate work
 - [ ] Meditation
+- [ ] FPGA and Verilator
 
 ### 🌏 Contact me
 - Email：makermuyi@gmail.com
