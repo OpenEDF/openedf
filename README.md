@@ -57,6 +57,7 @@
 - [ ] Automate work
 - [ ] Meditation
 - [ ] FPGA and Verilator
+- [ ] IP and Soc
 
 ### 🌏 Contact me
 - Email：makermuyi@gmail.com
