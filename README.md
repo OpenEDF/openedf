@@ -56,7 +56,7 @@
 - [ ] Github hot map show board
 - [ ] Automate work
 - [ ] Meditation
-- [ ] FPGA and Verilator
+- [ ] FPGA for ASIC Design and Verilator
 - [ ] IP and Soc Design
 
 ### 🌏 Contact me
