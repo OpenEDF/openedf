@@ -60,4 +60,4 @@
 - [ ] IP and Soc Design
 
 ### 🌏 Contact me
-- Email：makermuyi@gmail.com
+- e-mail：makermuyi@gmail.com
