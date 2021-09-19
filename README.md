@@ -58,6 +58,7 @@
 - [ ] Meditation
 - [ ] FPGA for ASIC Design and Verilator
 - [ ] IP and Soc Design
+- [ ] ✅
 
 ### 🌏 Contact me
 - e-mail：makermuyi@gmail.com
