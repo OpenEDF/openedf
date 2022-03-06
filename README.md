@@ -53,7 +53,7 @@
 
 ### 🏃‍♂️ Doing
 - [ ] Implementation of heap management structure and algorithm
-- [ ] Run RISC-V soft-core on xilinx A7
+- [x] Run RISC-V soft-core on xilinx A7
 - [ ] Github hot map show board
 - [ ] Automate work
 - [ ] Meditation
