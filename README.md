@@ -60,8 +60,5 @@
 - [ ] FPGA for ASIC Design and Verilator
 - [ ] IP and Soc Design
 
-### E203
-[![asciicast](https://asciinema.org/a/476742.svg)](https://asciinema.org/a/476742)
-
 ### 🌏 Contact me
 - *E-mail*：makermuyi@gmail.com
