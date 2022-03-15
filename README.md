@@ -53,13 +53,15 @@
 
 ### 🏃‍♂️ Doing
 - [ ] Implementation of heap management structure and algorithm
-- [x] Run RISC-V soft-core on xilinx A7
+- [x] Run RISC-V (E203 & wujian100)soft-core on xilinx A7
 - [ ] Github hot map show board
 - [ ] Automate work
 - [ ] Meditation
 - [ ] FPGA for ASIC Design and Verilator
 - [ ] IP and Soc Design
-- [ ] ✅✅✅
+
+### E203
+[![asciicast](https://asciinema.org/a/476742.svg)](https://asciinema.org/a/476742)
 
 ### 🌏 Contact me
 - *E-mail*：makermuyi@gmail.com
