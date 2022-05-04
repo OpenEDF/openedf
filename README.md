@@ -15,7 +15,6 @@
 - Deep-learning beginner
 
 ### 🚀 My tools My like
-<br>
 <p align="center" margin="100px">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" padding="10px" width="60" height="60"/> </a>
@@ -48,8 +47,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SCons.png" alt="css3" padding="10px" width="150" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/9/93/Verilator_logo.png" alt="css3" padding="10px" width="70" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="css3" padding="10px" width="60" height="60"/>
-</p>
-<br>
 
 ### 🏃‍♂️ Doing
 - [ ] Implementation of heap management structure and algorithm
