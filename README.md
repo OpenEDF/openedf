@@ -59,6 +59,7 @@
 - [ ] Meditation
 - [ ] FPGA for ASIC Design and Verilator
 - [ ] IP and Soc Design
+- [ ] Linux-sdio driver
 
 ### 🌏 Contact me
 - *E-mail*：makermuyi@gmail.com
