@@ -1,4 +1,4 @@
-## OpenEDF: Open Embedded Development Framework. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="64px"/> 
+## OpenEDF: Open Embedded Development Framework. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="60" height="45"/> 
 <img src="https://github.com/OpenEDF/openedf/blob/master/matrial/logo/OpenEDF.png" min-width="500px" max-width="500px" width="500px" align="right" alt="OpenEDF logo">
 
 ### 🌄 About OpenEDF
