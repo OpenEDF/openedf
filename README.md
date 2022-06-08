@@ -55,7 +55,7 @@
 - [ ] Automate work
 - [ ] Meditation
 - [ ] FPGA for ASIC Design and Verilator
-- [ ] IP and Soc Design
+- [ ] Embedded IP and Soc Design
 - [ ] Linux-sdio driver
 
 
