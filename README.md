@@ -57,7 +57,7 @@
 - [ ] FPGA for ASIC Design and Verilator
 - [ ] Embedded IP and Soc Design
 - [ ] Linux-sdio driver
-- [ ] **Li.XiangHe
+- [ ] **Li.XiangHe**
 
 
 ### 🌏 Contact me
