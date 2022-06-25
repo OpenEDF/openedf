@@ -57,6 +57,7 @@
 - [ ] FPGA for ASIC Design and Verilator
 - [ ] Embedded IP and Soc Design
 - [ ] Linux-sdio driver
+- [ ] RISC-V CPU Macan
 
 
 ### 🌏 Contact me
