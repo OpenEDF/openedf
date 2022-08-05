@@ -58,6 +58,7 @@
 - [ ] Embedded IP and Soc Design
 - [ ] Linux-sdio driver
 - [ ] RISC-V CPU Macan
+- [ ] SystemVerilog
 
 
 ### 🌏 Contact me
