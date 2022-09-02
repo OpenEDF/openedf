@@ -59,7 +59,7 @@
 - [ ] Linux-sdio driver
 - [ ] RISC-V CPU Macan
 - [ ] SystemVerilog
-
+- [ ] Get up early
 
 ### 🌏 Contact me
 - *E-mail*：makermuyi@gmail.com
