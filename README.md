@@ -60,6 +60,7 @@
 - [ ] RISC-V CPU Macan
 - [ ] SystemVerilog
 - [ ] Get up early, For youself
+  - [ ] Get up early, For youself
 
 ### 🌏 Contact me
 - *E-mail*：makermuyi@gmail.com
