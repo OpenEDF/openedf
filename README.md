@@ -47,6 +47,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SCons.png" alt="css3" padding="10px" width="150" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/9/93/Verilator_logo.png" alt="css3" padding="10px" width="70" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/elsevier/elsevier-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Synopsys_Logo.svg" alt="css3" padding="10px" width="100" height="60"/>
 
 ### 🏃‍♂️ Doing
 - [ ] Implementation of heap management structure and algorithm
