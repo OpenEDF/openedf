@@ -50,6 +50,7 @@
 <img src="https://www.vectorlogo.zone/logos/elsevier/elsevier-icon.svg" alt="css3" padding="10px" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Synopsys_Logo.svg" alt="css3" padding="10px" width="100" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="css3" padding="10px" width="60" height="60"/>
+<img src="https://github.com/SiliconLabs/matter/raw/release_1.1.0-1.1/docs/silabs/images/silabs-logo.jpg" alt="css3" padding="10px" width="100" height="60"/>
 
 ### 🏃‍♂️ Doing
 - [ ] Implementation of heap management structure and algorithm
