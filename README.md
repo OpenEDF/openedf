@@ -55,16 +55,17 @@
 
 ### 🏃‍♂️ Doing
 - [ ] Implementation of heap management structure and algorithm
-- [x] Run RISC-V (E203 & wujian100 + openc910 + opene902) soft-core on xilinx A7
+- [x] Run RISC-V (E203 & wujian100 + openc910 + opene906) soft-core on Xilinx A7
 - [ ] Github hot map show board
 - [ ] Automate work
 - [ ] Meditation
 - [ ] FPGA for ASIC Design and Verilator
 - [ ] Embedded IP and Soc Design
-- [ ] Linux-sdio driver
+- [ ] Linux-sdio driver & pcie driver
 - [ ] RISC-V CPU Macan
 - [ ] SystemVerilog
-- [ ] Get up early, For youself
+- [ ] Get up early, For yourself
+- [ ] 2023/08/27：mhome implement division and multiplication operations
 
 ### 🌏 Contact me
 - *E-mail*：makermuyi@gmail.com
